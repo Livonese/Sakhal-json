@@ -1,0 +1,89 @@
+{
+    "m_Version": 22,
+    "Enabled": 1,
+    "DespawnTime": 10.0,
+    "RespawnTime": 10.0,
+    "MinDistRadius": 400.0,
+    "MaxDistRadius": 900.0,
+    "DespawnRadius": 1100.0,
+    "AccuracyMin": -1.0,
+    "AccuracyMax": -1.0,
+    "ThreatDistanceLimit": -1.0,
+    "NoiseInvestigationDistanceLimit": -1.0,
+    "DamageMultiplier": -1.0,
+    "DamageReceivedMultiplier": -1.0,
+    "ObjectPatrols": [],
+    "Patrols": [
+        {
+            "Name": "",
+            "Persist": 0,
+            "Faction": "East",
+            "Formation": "",
+            "FormationLooseness": 3.0,
+            "Loadout": "A_Servero_Mix",
+            "Units": [],
+            "NumberOfAI": -4,
+            "Behaviour": "LOOP",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.6400000190734863,
+            "AccuracyMax": 0.6699999904632568,
+            "ThreatDistanceLimit": 500.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 400.0,
+            "MaxDistRadius": 900.0,
+            "DespawnRadius": 1100.199951171875,
+            "MinSpreadRadius": 0.10000000149011612,
+            "MaxSpreadRadius": 100.0999984741211,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": 180.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+					8218.96,
+					30.0176,
+					7909.11
+				],
+                [
+					8170.31,
+					16.6202,
+					7827.34
+				],
+                [
+					8197.31,
+					8.64568,
+					7664.03
+				],
+                [
+					8346.6,
+					21.6852,
+					7690.27
+				],
+                [
+					8459.82,
+					39.2683,
+					7691.7
+				],
+                [
+					8570.77,
+					44.6397,
+					7844.48
+				],
+                [
+					8517.88,
+					43.0658,
+					7907.66
+				]
+            ]
+        }
+    ]
+}
